@@ -1,0 +1,19 @@
+@import "./base/body";
+
+footer {
+    background-color: #20202D;
+    display: flex;
+    height: 60px;
+    flex-direction: row ;
+    justify-content: space-around;
+    align-items: center;
+}
+
+footer div {
+    display: flex;
+    flex-direction: row ;
+}
+
+footer img {
+    margin: 5px;
+}
